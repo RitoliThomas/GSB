@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 avr. 2015, 20:11:24
+    Author     : Amayumi
+*/
+
+body {
+   background-image: url("../images/3.jpg");
+   background-repeat: no-repeat;
+   background-color: #A1DBE9 !important;
+}
+
+table, td, th {
+    border: 1px solid #346699;
+}
+
+th {
+    background-color: #346699;
+    color: white;
+}
+
+.tablecomptable table, td, th{
+    
+    border: 1px solid #34363c;
+
+}
+.tablecomptable th{
+    background-color: #f47835;
+    color: white;
+}
